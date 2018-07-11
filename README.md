@@ -1,3 +1,21 @@
+## Resumen
+Debes tener instalado node >= 6.0
+Debes tener instalado npm >= 4.0
+
+Instalar React Native CLI:
+ `npm install -g create-react-native-app`
+
+Luego instalar
+`npm install -g vue-native-cli`
+
+Una vez instaladas las dependecias de react y vue-native, el siguiente paso será instalar en tu android
+una aplicacion llamadara Expo APP, esta aplicacion te permite ver la aplicacion en tu telefono.
+
+Para inicializar la aplicacion 
+`npm start`
+
+Luego scanear el codigo QR generado en la consola, debes tener conectados ambos dispositivos en la misma red
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
